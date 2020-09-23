@@ -17,6 +17,11 @@ This project is based on the results of "Real-time Sentiment Dashboard with Twee
 
 ## Sketches
 
+![P1-3.jpg](https://i.loli.net/2020/09/23/JqhoYLQig6BGHA9.jpg)
+
+
+
+![P1-4.jpg](https://i.loli.net/2020/09/23/yb42G1TIUPav3hV.jpg)
 
 
 
