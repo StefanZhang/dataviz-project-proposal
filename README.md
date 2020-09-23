@@ -17,13 +17,15 @@ This project is based on the results of "Real-time Sentiment Dashboard with Twee
 
 ## Sketches
 
-![P1-3.jpg](https://i.loli.net/2020/09/23/JqhoYLQig6BGHA9.jpg)
+* Sentiment pie Chart
+![P1-3.jpg](https://i.loli.net/2020/09/23/Hsdhl9xKDAQEfuZ.jpg)
 
+This will describe the percentage of people's sentiment towards Donald on twitter, different color represent positive, negative and neutral. 
 
-
+* Time vs Counts
 ![P1-4.jpg](https://i.loli.net/2020/09/23/yb42G1TIUPav3hV.jpg)
 
-
+This visualization shows the relatinship between time and the counts of tweets. Using different colored lines to represent different sentiment. 
 
 ## Open Questions
 
