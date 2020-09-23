@@ -13,7 +13,7 @@ This project is based on the results of "Real-time Sentiment Dashboard with Twee
  * Do majority of people on twitter like Donald? 
  * What are the most frequntly used words/phrases in tweets that are in favor of Donald? 
  * What are the most frequntly used words/phrases in tweets that are not in favor of Donald? 
- * What time during a day that, people talk about Donald more? And what does it potentially related to?
+ * During what days that people talk about Donald, positive or negative? And what does it potentially related to?
 
 ## Sketches
 
