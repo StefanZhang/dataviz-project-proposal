@@ -29,14 +29,6 @@ Mouse hover over the pie chart will display the more detailed information such a
 This visualization shows the relationship between time and counts of tweets. I am using different colored lines to represent different sentiment. 
 A menu will be implemented for this project, so user can also select sentiment in this line chart. 
 
-## Open Questions
-
-  * Uncertainty here is that I am generating my own data set, which could be less friendly to work with.
-  * I am not sure how to make this working as a real-time/live data visualization, have to research that. 
-  * Data source for visualization is coming from the database (MySQL), have to do research on that.
-
-
-
 ## Schedule of Deliverables
 |Date  | Task | Description |
 |--|--| -- |
