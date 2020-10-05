@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d78eb1c7-e7a3-407d-afdf-7850b0ca7d4c" name="Default Changelist" comment="Setup" />
+    <list default="true" id="d78eb1c7-e7a3-407d-afdf-7850b0ca7d4c" name="Default Changelist" comment="Setup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -58,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601927909513</updated>
-      <workItem from="1601927911474" duration="498000" />
+      <workItem from="1601927911474" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="Setup">
       <created>1601928314024</created>
@@ -67,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601928314024</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Setup">
+      <created>1601928456707</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601928456707</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,14 +105,18 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="496" y="225" key="#Deployment/0.0.1792.1120@0.0.1792.1120" timestamp="1601928273491" />
-    <state x="621" y="391" key="#Notifications" timestamp="1601928362405">
+    <state x="621" y="391" key="#Notifications" timestamp="1601928440943">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="621" y="391" key="#Notifications/0.0.1792.1120@0.0.1792.1120" timestamp="1601928362405" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1601928322504">
+    <state x="621" y="391" key="#Notifications/0.0.1792.1120@0.0.1792.1120" timestamp="1601928440943" />
+    <state x="496" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601928790188">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1601928322504" />
+    <state x="496" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1601928790188" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1601928479666">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1601928479666" />
     <state x="732" y="466" key="WebDeployment.AddServerDialog.v.1" timestamp="1601928022045">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
