@@ -7,7 +7,7 @@ include 'export_csv.php';
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Real-time Trump Tweets Sentiment Analysis Dashboard</title>
+    <title>Trump Tweets Sentiment Analysis Dashboard</title>
     <style>
         .container {
             width: 60%;
@@ -35,9 +35,6 @@ include 'export_csv.php';
     <div class="container">
         <h1>Real-time Trump Tweets Sentiment Analysis Dashboard</h1>
     </div>
-
-
-
 
 </body>
 </html>
