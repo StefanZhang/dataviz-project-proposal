@@ -1,3 +1,8 @@
+<?php
+include 'export_csv.php';
+
+?>
+
 <!doctype html>
 <html>
 <head>
