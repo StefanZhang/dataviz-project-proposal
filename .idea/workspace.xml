@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d78eb1c7-e7a3-407d-afdf-7850b0ca7d4c" name="Default Changelist" comment="First page">
-      <change afterPath="$PROJECT_DIR$/export_csv.php" afterDir="false" />
+    <list default="true" id="d78eb1c7-e7a3-407d-afdf-7850b0ca7d4c" name="Default Changelist" comment="Complete mysql to csv">
+      <change afterPath="$PROJECT_DIR$/loading-spinner.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,11 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601927909513</updated>
       <workItem from="1601927911474" duration="1413000" />
-      <workItem from="1602204407966" duration="2703000" />
+      <workItem from="1602204407966" duration="3444000" />
     </task>
     <task id="LOCAL-00001" summary="Setup">
       <created>1601928314024</created>
@@ -87,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601928863841</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Complete mysql to csv">
+      <created>1602207369946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602207369946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +121,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Setup" />
     <MESSAGE value="First page" />
-    <option name="LAST_COMMIT_MESSAGE" value="First page" />
+    <MESSAGE value="Complete mysql to csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete mysql to csv" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="225" key="#Deployment" timestamp="1602206926909">
@@ -124,18 +137,18 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="496" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1601928790188" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1601928869016">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602207374841">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1601928869016" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602207374841" />
     <state x="732" y="466" key="WebDeployment.AddServerDialog.v.1" timestamp="1601928022045">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="732" y="466" key="WebDeployment.AddServerDialog.v.1/0.0.1792.1120@0.0.1792.1120" timestamp="1601928022045" />
-    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601928852378">
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602207334535">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1601928852378" />
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602207334535" />
     <state x="630" y="456" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601928381640">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
