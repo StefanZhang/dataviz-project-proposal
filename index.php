@@ -30,11 +30,16 @@ include 'export_csv.php';
         }
 
     </style>
+    <script src="https://unpkg.com/vega@5.4.0/build/vega.min.js"></script>
+    <script src="https://unpkg.com/vega-lite@4.0.0-beta.1/build/vega-lite.min.js"></script>
+    <script src="https://unpkg.com/vega-lite-api@0.1.0/build/vega-lite-api.min.js"></script>
+    <script src="https://unpkg.com/vega-tooltip@0.19.1/build/vega-tooltip.min.js"></script>
+    <script src="https://unpkg.com/d3@5.11.0/dist/d3.min.js"></script>
 </head>
 <body>
     <div class="container">
         <h1>Real-time Trump Tweets Sentiment Analysis Dashboard</h1>
     </div>
-
+    <div id="vis"></div>
 </body>
 </html>
