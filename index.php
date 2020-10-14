@@ -12,7 +12,9 @@
     <script src="https://cdn.jsdelivr.net/npm/vega@5.16.1"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.16.8"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
-    <script src="js/piChart.js"></script>
+    <script src="js/BarChart.js"></script>
+    <script src="js/PiChart.js"></script>
+    <script src="js/LineChart.js"></script>
 
 </head>
 <body>
@@ -21,11 +23,17 @@
     </div>
 
 
+<!--    <div id="Bar"></div>-->
     <div id="Pie"></div>
+    <div id="Line"></div>
 
     <script>
 
-        vegaEmbed('#Pie', PieChart); // Add PieChart
+        // vegaEmbed('#Bar', BarChart); // Add BarChart
+        vegaEmbed('#Pie', PiChart); // Add PieChart
+        vegaEmbed('#Line', LineChart); // Add LineChart
+
+
 
     </script>
 </body>
