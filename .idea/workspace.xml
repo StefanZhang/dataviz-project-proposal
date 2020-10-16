@@ -19,29 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d78eb1c7-e7a3-407d-afdf-7850b0ca7d4c" name="Default Changelist" comment="Vega Lite updates, code refactor.">
-      <change afterPath="$PROJECT_DIR$/css/application.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/flaticon/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/flaticon/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/flaticon/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/flaticon/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/flaticon/_flaticon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_data.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/BarChart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/LineChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/LineChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/PiChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/PiChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loading-spinner.gif" beforeDir="false" />
+    <list default="true" id="d78eb1c7-e7a3-407d-afdf-7850b0ca7d4c" name="Default Changelist" comment="Front end updates">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +90,7 @@
       <workItem from="1602526693496" duration="344000" />
       <workItem from="1602536593376" duration="3945000" />
       <workItem from="1602680798766" duration="5054000" />
-      <workItem from="1602784865401" duration="10561000" />
+      <workItem from="1602784865401" duration="10731000" />
     </task>
     <task id="LOCAL-00001" summary="Setup">
       <created>1601928314024</created>
@@ -162,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602692576189</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Front end updates">
+      <created>1602808113594</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602808113594</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +173,8 @@
     <MESSAGE value="Complete mysql to csv" />
     <MESSAGE value="vizhub update" />
     <MESSAGE value="Vega Lite updates, code refactor." />
-    <option name="LAST_COMMIT_MESSAGE" value="Vega Lite updates, code refactor." />
+    <MESSAGE value="Front end updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Front end updates" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="225" key="#Deployment" timestamp="1602801868390">
@@ -218,10 +205,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1602208666782" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602692582575">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602808117137">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602692582575" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602808117137" />
     <state x="732" y="466" key="WebDeployment.AddServerDialog.v.1" timestamp="1601928022045">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
