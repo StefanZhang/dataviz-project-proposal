@@ -1,5 +1,6 @@
 var LineChart = {
-
+    "width": 1000,
+    "height": 300,
     "description": "Line Chart",
     "data": {"url": "tweets.csv"},
     "mark": {
@@ -16,10 +17,9 @@ var LineChart = {
         "field": "sentiment",
         "type": "nominal",
         "scale": {
-            "domain": ["NEGATIVE", "VERY_NEGATIVE", "NEUTRAL", "VERY_POSITIVE", "POSITIVE"],
-            "range": ["#c7c7c7", "#e7ba52", "#aec7e8", "#1f77b4", "#9467bd"]
+            "domain": ["NEGATIVE", "VERY_NEGATIVE", "NEUTRAL", "VERY_POSITIVE", "POSITIVE", "NOT_UNDERSTOOD"],
+            "range": ["#c7c7c7", "#e7ba52", "#aec7e8", "#1f77b4", "#9467bd", "#FFFF00"]
             }
         }
     }
-
 };

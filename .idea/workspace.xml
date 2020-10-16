@@ -20,13 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d78eb1c7-e7a3-407d-afdf-7850b0ca7d4c" name="Default Changelist" comment="Vega Lite updates, code refactor.">
-      <change afterPath="$PROJECT_DIR$/js/BarChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/LineChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/PiChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/application.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/flaticon/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/flaticon/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/flaticon/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/flaticon/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/flaticon/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/piChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/BarChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/LineChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/LineChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/PiChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/PiChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loading-spinner.gif" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +83,16 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -90,7 +110,8 @@
       <workItem from="1602459270845" duration="3009000" />
       <workItem from="1602526693496" duration="344000" />
       <workItem from="1602536593376" duration="3945000" />
-      <workItem from="1602680798766" duration="4959000" />
+      <workItem from="1602680798766" duration="5054000" />
+      <workItem from="1602784865401" duration="10561000" />
     </task>
     <task id="LOCAL-00001" summary="Setup">
       <created>1601928314024</created>
@@ -134,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602465160496</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Vega Lite updates, code refactor.">
+      <created>1602692576189</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602692576189</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,10 +190,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Vega Lite updates, code refactor." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="225" key="#Deployment" timestamp="1602206926909">
+    <state x="496" y="225" key="#Deployment" timestamp="1602801868390">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="225" key="#Deployment/0.0.1792.1120@0.0.1792.1120" timestamp="1602206926909" />
+    <state x="496" y="225" key="#Deployment/0.0.1792.1120@0.0.1792.1120" timestamp="1602801868390" />
     <state x="621" y="391" key="#Notifications" timestamp="1601928440943">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -174,22 +202,26 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="496" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1601928790188" />
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602802142914">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602802142914" />
     <state x="100" y="100" width="1592" height="920" key="DirDiffDialog" timestamp="1602540187544">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DirDiffDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602540187544" />
-    <state x="715" y="490" key="NewPhpFileDialog" timestamp="1602460645317">
+    <state x="715" y="490" key="NewPhpFileDialog" timestamp="1602789387831">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="715" y="490" key="NewPhpFileDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602460645317" />
+    <state x="715" y="490" key="NewPhpFileDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602789387831" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1602208666782">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1602208666782" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602465177910">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602692582575">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602465177910" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602692582575" />
     <state x="732" y="466" key="WebDeployment.AddServerDialog.v.1" timestamp="1601928022045">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
